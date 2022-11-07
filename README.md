@@ -1,25 +1,23 @@
-<div align="center">
-  <h1>
-    Hello
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+## :man_technologist: About Me :
 
----
+### Привет, меня зовут Копылов Владимир
 
-### :man_technologist: About Me :
+Я React Frontend разработчик из Санкт-Петербурга
 
-- :telescope: I’m Software Engineer and contributing to frontend for building web applications.
+Мои проекты:
 
-- :seedling: Exploring Technical Content Writing.
+- Pizza Delivery(без демонстрации, в процессе разработки) - фронтенд приложение, реализует принцип работы доставки пиццы. Очень напоминает всеми любимую пиццу 😏 . Стек: TypeScript, ReactJS, React Hooks, Redux Toolkit, React Router Dom, Axios, SCSS, mockApi для хранения данных о пицце. https://github.com/homie43/pizza-delivery
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- <a href="https://homie43.github.io/sneakers-shop-project/#/">Sneakers Shop</a> - фронтенд приложение, реализующее принцип работы интрнет магазина красовок. Без использования Redux. Стек: ReactJS, React Hooks, React Router Dom, Axios, SCSS, React Context, mockApi для сохранения данных о товарах и заказах. https://github.com/homie43/sneakers-shop-project
 
-- :mailbox:How to reach me: https://t.me/homie43
+- <a href="https://homie43.github.io/marvel_project/">Информационный портал вселенной Марвел</a> - информационное веб приложение, показывает принцип работы frontend разработчика: получание данных по REST API, создание и отрисовка данных на UI. Стек: ReactJS, React Hooks, React Router Dom, REST API, SCSS. https://github.com/homie43/marvel_project
+
+- <a href="https://homie43.github.io/todo-list-vue_3/">Приложение Todu List</a> - простой список задач на Vue 3, сделанный минут за 10. https://github.com/homie43/todo-list-vue_3
+
+- <a href="https://homie43.github.io/pulse/">Pulse</a> - скромный сайт-landing, в тоже время простенький интернет магазин про продаже пульсометров. Стек: HTML, SCSS, БЭМ, flexbox, JavaScript(модальное окно, табы, слайдер на jQuery), PHP(отправка форм ОС) https://github.com/homie43/pulse
+
+Проектов на самом деле больше, но это те, которыми можно гордиться!
 
 ---
 
