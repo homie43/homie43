@@ -7,7 +7,7 @@
 
 Мои проекты:
 
-- Pizza Delivery(без демонстрации, в процессе разработки) - фронтенд приложение, реализует принцип работы доставки пиццы. Очень напоминает всеми любимую пиццу 😏 . Стек: TypeScript, ReactJS, React Hooks, Redux Toolkit, React Router Dom, Axios, SCSS, mockApi для хранения данных о пицце. https://github.com/homie43/pizza-delivery
+- <a href="https://pizza-delivery-three.vercel.app/">Pizza Delivery<a/>(в процессе доработки) - фронтенд приложение, реализует принцип работы доставки пиццы. Очень напоминает всеми любимую пиццу 😏 . Стек: TypeScript, ReactJS, React Hooks, Redux Toolkit, React Router Dom, Axios, SCSS, mockApi для хранения данных о пицце. https://github.com/homie43/pizza-delivery
 
 - <a href="https://homie43.github.io/hacker-news/">Hacker News</a> - мой вариант интерфейса для сайта <a href="https://news.ycombinator.com/news">Hacker News</a>. Стек: ReactJS, React Hooks, React Router Dom, Axios, SCSS, Redux, react-lazyload, Hacker News API, yarn. https://github.com/homie43/hacker-news
 
