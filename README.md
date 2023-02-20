@@ -7,7 +7,7 @@
 
 Мои проекты:
 
-- - <a href="https://lustrous-churros-6ae756.netlify.app/home">Multimarket<a/> - E-commerce платформа, реализует принцип работы маркетплейса. Стек: JavaScript, ReactJS, React Hooks, Redux Toolkit, React Router Dom, SCSS, Reactstrap, React-Toastify(для информирования юзера о действия на сайте), Firebase для хранения данных о товарах и пользователях, аак же реализована авторизация. https://github.com/homie43/ecom-shop
+- <a href="https://lustrous-churros-6ae756.netlify.app/home">Multimarket<a/> - E-commerce платформа, реализует принцип работы маркетплейса. Стек: JavaScript, ReactJS, React Hooks, Redux Toolkit, React Router Dom, SCSS, Reactstrap, React-Toastify(для информирования юзера о действия на сайте), Firebase для хранения данных о товарах и пользователях, аак же реализована авторизация. https://github.com/homie43/ecom-shop
 
 - <a href="https://pizza-delivery-three.vercel.app/">Pizza Delivery<a/> - фронтенд приложение, реализует принцип работы доставки пиццы😏 . Стек: TypeScript, ReactJS, React Hooks, Redux Toolkit, React Router Dom, Axios, SCSS, mockApi для хранения данных о пицце. https://github.com/homie43/pizza-delivery
 
