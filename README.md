@@ -17,8 +17,6 @@
 
 - <a href="https://homie43.github.io/marvel_project/">Информационный портал вселенной Марвел</a> - информационное веб приложение, показывает принцип работы frontend разработчика: получание данных по REST API, создание и отрисовка данных на UI. Стек: ReactJS, React Hooks, React Router Dom, REST API, SCSS. https://github.com/homie43/marvel_project
 
-- <a href="https://homie43.github.io/todo-list-vue_3/">Приложение Todu List</a> - простой список задач на Vue 3, сделанный минут за 10. https://github.com/homie43/todo-list-vue_3
-
 
 ---
 
