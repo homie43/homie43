@@ -33,7 +33,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=homie43&theme=dracula&border_radius=5&locale=ru)](https://git.io/streak-stats)
