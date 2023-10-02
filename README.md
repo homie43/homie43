@@ -3,7 +3,7 @@
 
 ### Привет! Меня зовут Копылов Владимир
 
-Я Frontend developer из СПб
+Я Frontend Developer из СПб
 
 Мои проекты:
 
