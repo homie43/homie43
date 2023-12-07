@@ -1,5 +1,5 @@
 
-## :man_technologist: About Me :
+## About Me :
 
 #### Привет! Меня зовут Копылов Владимир
 
